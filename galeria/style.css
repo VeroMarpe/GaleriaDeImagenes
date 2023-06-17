@@ -13,6 +13,7 @@ h1 {
     text-transform: uppercase;
     margin-top: 150px;
 }
+
 .carrusel {
     display: flex;
     gap: 10px;
@@ -27,7 +28,6 @@ h1 {
     max-width: 1030px;
     scroll-behavior: smooth;
 }
-
 
 .carrusel-fotos img {
     width: 300px;
